@@ -1,7 +1,6 @@
 site_name: Wiki Gobierno Digital
 site_description: Divulgación sobre gobierno digital
-site_author: Tu nombre aquí
-
+site_author: DR. CHRISTIAN CRUZ
 theme:
   name: material
   language: es
@@ -18,5 +17,7 @@ nav:
   - ¿Qué es el Gobierno Digital?: que-es.md
   - Datos Abiertos: datos-abiertos.md
   - Identidad Digital: identidad-digital.md
+  - Modelo Evolutivo: modelo-evolutivo.md
 
   
+repo_url: https://hanibalsmith35-cmd.github.io/gobierno-digital/
