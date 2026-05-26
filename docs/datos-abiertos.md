@@ -1,0 +1,2 @@
+Se consideran datos abiertos todos aquellos datos accesibles y reutilizables, sin exigencia de permisos específicos. Open Knowledge Foundation señala que los Datos Abiertos son datos que pueden ser utilizados, reutilizados y redistribuidos libremente por cualquier persona, y que se encuentran sujetos, como mucho, al requerimiento de atribución y de compartirse de la misma manera en que aparecen, siempre respetando la seguridad y privacidad de la información
+

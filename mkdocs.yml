@@ -1,0 +1,22 @@
+site_name: Wiki Gobierno Digital
+site_description: Divulgación sobre gobierno digital
+site_author: Tu nombre aquí
+
+theme:
+  name: material
+  language: es
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+
+nav:
+  - Inicio: index.md
+  - ¿Qué es el Gobierno Digital?: que-es.md
+  - Datos Abiertos: datos-abiertos.md
+  - Identidad Digital: identidad-digital.md
+
+  
