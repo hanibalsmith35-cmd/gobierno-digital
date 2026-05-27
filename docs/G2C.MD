@@ -1,3 +1,5 @@
+
+
 # G2C: Gobierno a Ciudadano
 
 G2C significa Gobierno a Ciudadano (del inglés *Government-to-Citizen*).
