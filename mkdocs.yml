@@ -1,6 +1,7 @@
 site_name: Wiki Gobierno Digital
-site_description: Divulgación sobre gobierno digital
+site_description: Divulgacion sobre gobierno digital
 site_author: DR. CHRISTIAN CRUZ
+
 theme:
   name: material
   language: es
@@ -18,6 +19,6 @@ nav:
   - Datos Abiertos: datos-abiertos.md
   - Identidad Digital: identidad-digital.md
   - Modelo Evolutivo: modelo-evolutivo.md
+  - G2C: g2c.md
 
-  
 repo_url: https://hanibalsmith35-cmd.github.io/gobierno-digital/
